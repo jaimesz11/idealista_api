@@ -1,0 +1,1 @@
+from idealista.api_idealista import scraper_idealista, variables_idealista
